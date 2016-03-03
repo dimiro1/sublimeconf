@@ -1,1 +1,1 @@
-# sublimeconf
+# Sublime Text 3 Preferences
